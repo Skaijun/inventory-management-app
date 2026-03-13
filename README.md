@@ -8,7 +8,7 @@ Link to related video: https://www.youtube.com/watch?v=ddKQ8sZo_v8
 
 This repository contains the code corresponding to an in-depth tutorial available on YouTube channel. It is highly suggested to watch the [tutorial video](https://www.youtube.com/watch?v=ddKQ8sZo_v8) as it includes detailed instructions on how to set up everything, including deploying AWS.
 
-Join our [Discord community](https://discord.com/channels/1070200085440376872/1267499814678171698) for discussions about this specific app.
+ [Discord community](https://discord.com/channels/1070200085440376872/1267499814678171698) for discussions about this specific app.
 
 ## Tech Stack
 
